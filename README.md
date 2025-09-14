@@ -1,4 +1,3 @@
-Domain Homoglyph Generator
 This Python script generates a comprehensive list of homoglyph variations for a given domain name and converts them to their corresponding Punycode. It's a useful tool for security research, brand protection, or simply exploring the world of internationalized domain names.
 
 How It Works
